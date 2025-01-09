@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 | **행복소복** | 일정 공유 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/1bd6b07d8c064453afc8138678a59604?pvs=4) |
 | **가보자GO** | P2P 여행 플랜 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/P2P-GO-4b30833437734fef9893af67bce3b182?pvs=4) |
 | **MYECG** | ECG를 이용한 심전도 측정 및 분석 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/MY-ECG-518a479f15ea444697c37314448b7be9?pvs=4) |
-| **머니뭐니** | 저축 목표 달성 증진 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/9270808a79884c598c0915101886417a?pvs=4) |
-| **Cloud High-End Computing** | 소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계 | [보기]() |
-| **Sur문** | 설문조사 중개 플랫폼 | [보기]() |
+| **머니뭐니** | 저축 목표 달성 증진 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/Cloud-High-End-Computing-176304493be8803a844ce5a104edd786?pvs=4) |
+| **Cloud High-End Computing** | 소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계 | [보기](https://heavenly-xenon-9d3.notion.site/Cloud-High-End-Computing-176304493be8803a844ce5a104edd786?pvs=4) |
+| **Sur문** | 설문조사 중개 플랫폼 | [보기](https://heavenly-xenon-9d3.notion.site/Sur-176304493be880048394c5a9f78fe2c2?pvs=4) |
 
 
 ## 🧑‍💻 Tech Stack
