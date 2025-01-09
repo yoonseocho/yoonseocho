@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 ### Others
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,100:ffe4e1&height=130&section=footer&fontSize=60&fontColor=703c3c&fontAlignY=45&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,100:ffe4e1&height=130&section=footer&fontSize=60&fontColor=ff69b4&fontAlignY=45&animation=twinkling)
 
