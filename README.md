@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-5?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=792994">SWExpert</a> - 학교 서버 관리 (11. 1 ~ )<br>
 </ul><br>
 
-##  ✅ Certificatation
+##  ✅ Certification
 <ul>
   <li>OPIc AL</li><br>
   <li>파이썬프로그래밍활용능력 2급</li><br>
