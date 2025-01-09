@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <strong>2022</strong><hr/>
 <ul>
-  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=757250">SW중심대학X경영경제대학 연합 해커톤</a> <strong> 참가</strong> (6. 22 ~ 8. 13)</li><br>
+  <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=757250">SW중심대학X경영경제대학 연합 해커톤</a> 참가 (6. 22 ~ 8. 13)</li><br>
   <li><strong>모바일시스템공학과 ) </strong>ECG 키트를 활용한 심전도 측정 및 분석 서비스 개발 (9. 22 ~ 12. 22)</li><br>
   <li><strong>단국대학교 ) </strong>안면고등학교 전공체험 <strong>Mentor</strong> (12. 26)</li><br>
 </ul><br>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </ul><br>
 <strong>2024</strong><hr/>
 <ul>
-  <li><strong>모바일시스템공학과 ) 학과 서버 관리 (7. 3 ~ 9. 30)</li><br>
+  <li><strong>모바일시스템공학과 ) </strong>학과 서버 관리 (7. 3 ~ 9. 30)</li><br>
   <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=794802">해커톤 경진대회</a>  참가 (11. 20 ~ 11. 28)</li><br>
   <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-5?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=792994">SWExpert</a> - 학교 서버 관리 (11. 1 ~ )<br>
 </ul><br>
