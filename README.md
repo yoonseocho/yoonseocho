@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <li><strong>SW중심대학 ) </strong><a href="https://swcu.dankook.ac.kr/web/swcup/-12?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=757250">SW중심대학X경영경제대학 연합 해커톤</a> 참가 (6. 22 ~ 8. 13)</li><br>
   <li><strong>모바일시스템공학과 ) </strong>ECG 키트를 활용한 심전도 측정 및 분석 서비스 개발 (9. 22 ~ 12. 22)</li><br>
   <li><strong>단국대학교 ) </strong>안면고등학교 전공체험 <strong>Mentor</strong> (12. 26)</li><br>
-  <li><strong>UMC ) </strong>University MakeUs Challenge(UMC) 3기 수료 (9. 3 ~ 2. 16)</li><br>
+  <li><strong>UMC ) </strong><a href="https://umc.makeus.in/">University MakeUs Challenge(UMC)</a> 3기 수료 (9. 3 ~ 2. 16)</li><br>
 </ul>
 
 `2023`
