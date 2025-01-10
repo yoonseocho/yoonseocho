@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 | **MYECG** | ECG를 이용한 심전도 측정 및 분석 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/MY-ECG-518a479f15ea444697c37314448b7be9?pvs=4) |
 | **머니뭐니** | 저축 목표 달성 증진 서비스 | [보기](https://heavenly-xenon-9d3.notion.site/9270808a79884c598c0915101886417a?pvs=4) |
 | **Cloud High-End Computing** | 소외계층을 위한 클라우드 기반 고성능 컴퓨팅 환경 설계 | [보기](https://heavenly-xenon-9d3.notion.site/Cloud-High-End-Computing-176304493be8803a844ce5a104edd786?pvs=4) |
-| **Sur문** | 설문조사 중개 플랫폼 | [보기](https://heavenly-xenon-9d3.notion.site/Sur-176304493be880048394c5a9f78fe2c2?pvs=4) |
+| **Sur문** | 설문조사 중개 플랫폼 | [보기](https://drive.google.com/file/d/1x1AxS3gmdTFRJaIXlaT1u6rzqDjaic1I/view?usp=sharing) |
 
 
 ## 🧑‍💻 Tech Stack
