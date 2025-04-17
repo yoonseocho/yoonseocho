@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,100:ffe4e1&height=190&section=header&text=Yoonseo's%20Github&fontSize=48&fontColor=ff69b4&fontAlignY=40&animation=twinkling)
 ## 안녕하세요 조윤서입니다. 🤗
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonseocho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="mailto:jessicadbstj@gmail.com?subject=문의드립니다&body=안녕하세요,%20문의사항이%20있습니다.">
   <img src="https://img.shields.io/badge/jessicadbstj@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
